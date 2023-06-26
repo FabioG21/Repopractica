@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Leslie Daihana Gomez
+=======
 # Repopractica
 <<<<<<< HEAD
 =======
